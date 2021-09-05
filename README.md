@@ -1,5 +1,5 @@
 # Contact-Manager
-A Simple Multipage Contact managing React Web Application (completely responsible) with the ability to add new contacts and delete existing ones. Also there is the ability to search 
+A Simple Multipage Contact managing React Web Application (completely responsive) with the ability to add new contacts and delete existing ones. Also there is the ability to search 
 contacts using name or phone no.Using react hooks,both functional and class components also demonstrating the use of userefs.
 It uses semantic-ui and I have kept the styling very simple and basic and focussed more on the dynamic logic to implement the functionality. It uses localstorage to store and retrieve
 contacts.
